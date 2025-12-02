@@ -1,0 +1,9 @@
+# Databricks local checkpoints
+**/checkpoint/
+**/.ipynb_checkpoints/
+
+# Delta logs
+**/_delta_log/
+
+# System files
+.DS_Store
