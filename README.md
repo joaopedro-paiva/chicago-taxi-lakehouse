@@ -12,7 +12,8 @@ Portfolio lakehouse project demonstrating **Databricks + Delta Lake** delivery p
 
 ## Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebe74be6-760c-45e4-8800-763ac979818a" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/16fbe94d-aa81-4484-a030-deb54e95d127" />
+
 
 
 ## Quickstart
